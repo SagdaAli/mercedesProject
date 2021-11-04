@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+}
+.cont{
+    background-color:black;
+    width:938px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.back1img{
+    float: left;
+}
+.back1icons{
+   float: left;
+   height: 115px;
+   background-color:black;
+}
+.iconlist{
+    display: inline-block;
+    opacity: .6;
+}
+.iconlist:hover{
+    opacity: 1.0;
+}
+.navbar{
+    clear: both;
+    color: white;
+    border-top: 0.5px solid aliceblue;
+}
+.navbarlinks{
+     
+    display: inline-block;  
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.navbar a:hover,.active{
+    background-color: cornflowerblue;
+}
+.contbody{
+    height: 1100px;
+    background-color: #dee0df;
+}
+.banner1div{
+  padding: 15px; 
+}
+.float1{
+    width: 600px;
+    padding-left: 6px;
+    float: left;
+}
+.float2{
+    width: 280px;
+    padding-left: 10px;
+    margin-left: 25px;
+    float: left;
+}
+.float1 h2,.float2 h2{
+    color: cornflowerblue;
+}
+.floatcar1,.floatcar2{
+    float: left;
+    border: thin solid white;
+    padding: 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.floatcar1{
+    margin-left: 5px;
+    margin-right: 15px;
+}
+.para1,p{
+    text-align: justify;
+}
+.para2{
+    clear: both;
+    padding: 10px;
+}
+.orangeheader{
+    color: #e69327;
+}
+.blueheader{
+    color:cornflowerblue;
+}
+.lastmainpara{
+    clear: both;
+    width: 600px;
+    margin-left: 5px;
+    padding-top: 10px;
+}
+.footer{
+    text-align: center;
+}
+.aboutusfloat1,.lastaboutpara{
+    width: 900px;
+    margin-left: 10px;
+}
+.modl1,.modl2,.modl3,.modl4{
+    float: left;
+    border: thin solid #c5cfde;
+}
+.modl1{
+    margin-left: 100px;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+.modl2{
+    margin-top: 25px;
+}
+.modl3{
+    margin-left: 100px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.modl4{
+    margin-top: 30px;
+}
+.lastaboutpara{
+   clear: both;
+   padding-top: 10px;
+}
